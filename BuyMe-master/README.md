@@ -1,5 +1,6 @@
 # BuyMe
 **This project was created in collaboration with my peers**
+
 My feature contributions:
 - Seller creating auctions
 - Buyer setting a bid
