@@ -3,9 +3,9 @@
 
 ## Project Overview
 The languages used to create this project are:
-- Java (JSP, JDBC)
-- SQL (MySQL)
-- JavaScript(jQuery)
+- Java
+- MySQL
+- JavaScript
 - HTML/CSS
 
 This application is a relational database system. It's purpose is to behave like an online auction system (i.e. Ebay) allowing users to buy and sell items. 
