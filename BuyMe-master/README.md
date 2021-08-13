@@ -1,5 +1,10 @@
 # BuyMe
-**this project was created in collaboration with my peers**
+**This project was created in collaboration with my peers**
+My feature contributions:
+- Seller creating auctions
+- Buyer setting a bid
+- Defining winner of auction
+- Alerting bidders of higher bid and alerting winner after auction ends
 
 ## Project Overview
 The languages used to create this project are:
