@@ -1,2 +1,2 @@
-# BuyMe-
+# BuyMe
 Auction Service Application
